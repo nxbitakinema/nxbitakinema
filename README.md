@@ -1,3 +1,5 @@
 name : patompong munglee
-mail : nxbitakinema@gmail.com / kuroishumi@gmail.com
+/n
+mail : nxbitakinema@gmail.com 
+/n
 write android jetpack compose
