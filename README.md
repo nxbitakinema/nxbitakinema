@@ -2,6 +2,6 @@
 
 ---
 
-<p align="center">firebase  /  postman  /  retrofit2 / git</p>
+<p align="center">firebase  /  postman  /  retrofit2  /  ktor  /  koin   /  kmm</p>
 
 
