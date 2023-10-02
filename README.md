@@ -2,6 +2,6 @@ FRONT END _____ react / redux
 
 ---
 
-JETPACK _________ firebase / hilt / retrofit / ktor / koin / kmm
+JETPACK _________ firebase / hilt / koin / retrofit / ktor / kmm
 
 
