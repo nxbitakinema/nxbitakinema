@@ -1,7 +1,7 @@
-Front End : react + redux
+FRONT END _____ react / redux
 
 ---
 
-Android Jetpack Compose : firebase  +  retrofit  +  hilt + ktor  +  koin   + kmm
+JETPACK _________ firebase / hilt / retrofit / ktor / koin / kmm
 
 
