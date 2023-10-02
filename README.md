@@ -1,7 +1,7 @@
-<p align="center">Jetpack Compose</p>
+Front End : react + redux
 
 ---
 
-<p align="center">firebase  -  postman  -  retrofit  -  ktor  -  koin   -  hilt  -  kmm</p>
+Android Jetpack Compose : firebase  +  retrofit  +  hilt + ktor  +  koin   + kmm
 
 
