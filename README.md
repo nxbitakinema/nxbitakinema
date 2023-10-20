@@ -1,3 +1,7 @@
+ENTRY LEVEL ___ developer
+
+---
+
 FRONT END _____ react / next / html / css / tailwind
 
 ---
