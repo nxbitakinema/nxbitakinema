@@ -1,4 +1,4 @@
-FRONT END _____ react / next
+FRONT END _____ react / next / html / css / tailwind
 
 ---
 
