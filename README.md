@@ -1,4 +1,4 @@
-I'AM JUNIOR / ENTRY LEVEL ____________________________ developer
+ENTRY LEVEL __________________________________________ developer
 
 ---
 
