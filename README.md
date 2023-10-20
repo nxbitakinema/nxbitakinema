@@ -1,7 +1,11 @@
-FRONT END _____ react / redux
+FRONT END _____ react / next
 
 ---
 
-JETPACK _________ firebase / hilt / koin / retrofit / ktor / kmm
+BACK END _______ firebase / mongodb / stripe / strappy / netlify
+
+---
+
+JETPACK _________ hilt / koin / retrofit / ktor / kmm
 
 
