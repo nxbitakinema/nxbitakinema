@@ -1,9 +1,7 @@
-ENTRY LEVEL __________________________________________ developer
+ENTRY LEVEL ______________________________________________________________________ developer
 
 ---
 
-FRONT END _____ react / next / html / css / tailwind
-
-BACK END _______ firebase / mongodb / stripe / strappy / netlify
+FRONTEND _______ react / next ( firebase / mongodb / stripe / strappy / netlify / tailwind )
 
 JETPACK _________ hilt / koin / retrofit / ktor / kmm
