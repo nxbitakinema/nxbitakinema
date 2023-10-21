@@ -4,4 +4,4 @@ ENTRY LEVEL ____________________________________________________________________
 
 FRONTEND _______ react / next ( firebase / mongodb / stripe / strappy / netlify / tailwind )
 
-JETPACK _________ hilt / koin / retrofit / ktor / kmm
+ANDROID ________ jetpack ( firebase / hilt / koin / retrofit / ktor / kmm )
