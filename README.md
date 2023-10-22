@@ -2,6 +2,6 @@ JUNIOR LEVEL ___________________________________________________________________
 
 ---
 
-FRONTEND _______ react / next ( firebase / mongodb / stripe / strappy / netlify / tailwind )
+FRONTEND _______ react / next ( mongodb / stripe / strappy / netlify / tailwind )
 
 ANDROID ________ jetpack ( firebase / hilt / koin / retrofit / ktor / kmm )
