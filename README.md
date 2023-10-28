@@ -1,5 +1,5 @@
-FRONTEND 👉🏻 react ( tailwind / stripe / strappy / netlify / tailwind / mongodb )
+FRONTEND ____________________ react ( tailwind / stripe / strappy / netlify / tailwind / mongodb )
 
 ---
 
-ANDROID 👉🏻 jetpack ( firebase / hilt / koin / retrofit / ktor / kmm )
+ANDROID ______________________ jetpack ( firebase / hilt / koin / retrofit / ktor / kmm )
