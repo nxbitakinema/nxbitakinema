@@ -2,4 +2,4 @@ frontend ___________ react `tailwind / stripe / strappy / netlify / tailwind / m
 
 #
 
-android ____________ jetpack compose `firebase / hilt / koin / retrofit / ktor / kmm`
+android ____________ jetpack `firebase / hilt / koin / retrofit / ktor / kmm`
