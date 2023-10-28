@@ -1,4 +1,4 @@
-FRONTEND _______ react ( tailwind / mongodb / stripe / strappy / netlify / tailwind )
+FRONTEND _____________________________________________________________ react ( tailwind / mongodb / stripe / strappy / netlify / tailwind )
 
 ---
 
