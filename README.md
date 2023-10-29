@@ -1,3 +1,5 @@
-frontend _____________ react `  redux / tailwind / stripe / strappy / netlify / mongodb / html / css / javascript  `
+<b>frontend _____________ react</b> `  redux / tailwind / stripe / strappy / netlify / mongodb / html / css / javascript  `
+
 #
-android ____________ jetpack `  firebase / hilt / koin / retrofit / ktor / kmm                                    `
+
+<b>android ____________ jetpack</b> `  firebase / hilt / koin / retrofit / ktor / kmm                                     `
