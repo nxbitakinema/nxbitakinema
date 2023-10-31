@@ -1,4 +1,4 @@
-frontend _____________ react `  redux / tailwind / html / css / javascript /// netlify / stripe / strappy / mongodb  `
+frontend _____________ react `  redux / tailwind /// netlify / stripe / strappy / mongodb                            `
 
 #
 
