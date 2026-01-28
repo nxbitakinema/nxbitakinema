@@ -4,7 +4,7 @@ ai ___________________ python / n8n `                                           
 
 # 2023
 
-frontend _____________ react `  tailwind / bootstrap /// netlify / stripe / strappy / mongodb                        `
+frontend _____________ react `  tailwind / bootstrap                                                                `
 
 #
 
@@ -12,4 +12,4 @@ backend_______________ react `  netlify / stripe / strappy / mongodb            
 
 #
 
-~~android~~ ______________ ~~jetpac~~ `  ~~firebase / ~~hilt~~ / ~~koin~~ / ~~retrofit~~ / ~~ktor~~ / ~~kmm~~                               `
+android ______________ jetpack compose `  firebase / hilt / koiretrofit / ktor                        `
