@@ -1,8 +1,12 @@
-# 2026
+# 
+
+2026
 
 ai ___________________ python / n8n `                                                                                      `
 
-# 2023
+# 
+
+2023
 
 frontend _____________ react `  tailwind / bootstrap                                                                `
 
