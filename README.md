@@ -16,4 +16,4 @@ backend_______________ netlify / stripe / strappy / mongodb
 
 #
 
-android ______________ jetpack compose `  firebase / hilt / koiretrofit / ktor 
+android ______________ jetpack compose  /  firebas / hilt / koiretrofit / ktor 
