@@ -2,7 +2,7 @@
 
 2026
 
-ai ___________________ n8n / dify
+ai _____________________ n8n / dify
 
 frontend _____________ next / tailwind
 
