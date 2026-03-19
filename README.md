@@ -4,6 +4,8 @@
 
 ai ___________________ n8n / dify
 
+frontend _____________ next / tailwind
+
 # 
 
 2023
@@ -12,8 +14,8 @@ frontend _____________ react / tailwind / bootstrap
 
 #
 
-backend_______________ netlify / stripe / strappy / mongodb
+backend ______________ netlify / stripe / strappy / mongodb
 
 #
 
-android ______________ jetpack compose  /  firebas / hilt / koiretrofit / ktor 
+android ______________ jetpack compose / firebase 
