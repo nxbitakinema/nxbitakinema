@@ -12,10 +12,6 @@ frontend _____________ next / tailwind
 
 frontend _____________ react / tailwind / bootstrap
 
-#
-
 backend ______________ netlify / stripe / strappy / mongodb
-
-#
 
 android ______________ jetpack compose / firebase 
