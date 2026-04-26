@@ -8,4 +8,4 @@ back tool ____ clerk / stripe<br>
 <br>
 auto _________ n8n / dify / qdrant / docling / docker / ngrok<br>
 <br>
-android ______ jetpack compose / firebase<br>
+~~android ______ jetpack compose / firebase~~
