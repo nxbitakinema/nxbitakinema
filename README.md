@@ -1,11 +1,16 @@
-junior skill => <br>
+[ junior skill ] <br>
 <br>
-front __________________________ next / react<br>
-front css ______________________ tailwind / shadcn<br>
 <br>
-back ________________________ supabase / prisma<br>
-back tool ___________________ clerk / stripe<br>
+front ___________________________________ next / react <br>
+front tool ______________________________ tailwind / shadcn <br>
 <br>
-auto ________________________ n8n / dify / qdrant / docling / docker / ngrok<br>
+back ___________________________________ supabase / prisma <br>
+back tool ______________________________ clerk / stripe <br>
 <br>
-~~android~~ _____________________ ~~jetpack compose~~ / ~~firebase~~
+auto ____________________________________ n8n / dify <br>
+auto tool _______________________________ docker / ngrok / docling /  qdrant <br>
+<br>
+~~android~~ _______________________________ ~~jetpack~~ <br>
+~~android~~ ~~tool~~ __________________________ ~~firebase~~ <br>
+<br>
+
